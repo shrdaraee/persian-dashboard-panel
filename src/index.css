@@ -1,0 +1,30 @@
+@tailwind base;
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #2dd4bf #c8f5ef;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 15px;
+  position: relative;
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--primary);
+  border-radius: 5px;
+}
+
+@tailwind components;
+
+@tailwind utilities;
+
+@font-face {
+  font-family: iransans;
+  src: url(../src/Assets/fonts/IRANSans.ttf);
+}
+
+* {
+  font-family: iransans;
+}
