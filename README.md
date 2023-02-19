@@ -37,7 +37,7 @@ The database is created by Json server and is available locally in the project
 )
 
 
-## Run Locally
+## Working with the Project
 
 Clone the project
 
