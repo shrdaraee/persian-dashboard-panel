@@ -42,13 +42,13 @@ The database is created by Json server and is available locally in the project
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/shrdaraee/persian-dashboard-panel.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd persian-dashboard-panel
 ```
 
 Install dependencies
