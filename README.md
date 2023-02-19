@@ -67,7 +67,7 @@ Start the Json server
   npx json-server --whatch db.json
 ```
 
-and finally for access to panel use this email and password :)
+and finally for login to admin panel use this email and password :)
 
 ```bash
  email : sahar@gmail.com
