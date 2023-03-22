@@ -77,7 +77,7 @@ and finally for login to admin panel use this email and password :)
  ```
 
 ## 🚀 About Me
-I'm a front end developer and web designer 
+I'm front end developer and web designer 
 
 
 
